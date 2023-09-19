@@ -2,11 +2,11 @@
 
 [![Video Link](insert-video-link-here.png)](insert-video-link-here) <!-- Insert your video link here -->
 
-This project is inspired by a [specific video](insert-link-to-the-original-video-here), and it involves hand tracking using the MediaPipe library to control your system's volume based on the distance between your index finger and thumb. Additionally, we've integrated an Arduino board to control LEDs based on the volume level. The project utilizes the MediaPipe, PySerial, and PyCaw libraries.
+This project is inspired by a [specific video](https://www.youtube.com/watch?v=9iEPzbG-xLE&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=1&t=1681s), and it involves hand tracking using the MediaPipe library to control your system's volume based on the distance between your index finger and thumb. Additionally, we've integrated an Arduino board to control LEDs based on the volume level. The project utilizes the MediaPipe, PySerial, and PyCaw libraries.
 
 ## Introduction
 
-This project allows you to control your computer's volume by simply moving your hand. Inspired by [insert the link to the original video here], we've taken the concept a step further, significantly improving the precision of the volume control algorithm.
+This project allows you to control your computer's volume by simply moving your hand. Inspired by [@murtazasworkshop](https://www.youtube.com/@murtazasworkshop), we've taken the concept a step further, significantly improving the precision of the volume control algorithm.
 
 ## Getting Started
 
